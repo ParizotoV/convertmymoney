@@ -7,7 +7,7 @@
     "test": "jest",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Vinicius Parizoto",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.0.1",
